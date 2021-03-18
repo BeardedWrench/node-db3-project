@@ -16,10 +16,10 @@ There are two possible ways to submit your project. Your instructor should have 
 
 #### Option B - Pull Request
 
-- [ ] Fork and clone the repository.
-- [ ] Implement your project in a `firstname-lastname` branch.
-- [ ] Create a pull request of `firstname-lastname` against your `main` branch.
-- [ ] Open the assignment in Canvas and submit your pull request.
+- [X] Fork and clone the repository.
+- [X] Implement your project in a `firstname-lastname` branch.
+- [X] Create a pull request of `firstname-lastname` against your `main` branch.
+- [X] Open the assignment in Canvas and submit your pull request.
 
 ### Task 2: Minimum Viable Product
 
@@ -44,19 +44,19 @@ Use a graphical tool like `SQLite Studio` to open `./data/northwind.db3` and exe
 
 Write middleware functions in `api/schemes/scheme-middleware.js` following the instructions inside that file:
 
-- [ ] `checkSchemeId`
-- [ ] `validateScheme`
-- [ ] `validateStep`
+- [X] `checkSchemeId`
+- [X] `validateScheme`
+- [X] `validateStep`
 
 ### Database Functions
 
 Write db access functions in `api/schemes/scheme-model.js` following the instructions inside that file:
 
-- [ ] `find`
-- [ ] `findById`
-- [ ] `findSteps`
-- [ ] `add`
-- [ ] `addStep`
+- [X] `find`
+- [X] `findById`
+- [X] `findSteps`
+- [X] `add`
+- [X] `addStep`
 
 #### Schemes Schema
 
